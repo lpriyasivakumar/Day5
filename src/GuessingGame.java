@@ -5,7 +5,7 @@ public class GuessingGame {
 	public static void main(String[] args) {
 		//Create an instance of Scanner
 		Scanner sc = new Scanner(System.in);
-		String choice = "y";
+		String choice = "y";//hardcoded choice as "y" so WHile loop runs atleast once
 		int randomInt, guess, count;
 		
 		while(choice.equalsIgnoreCase("y")){
