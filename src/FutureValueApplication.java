@@ -1,6 +1,7 @@
 import java.text.NumberFormat;
 import java.util.InputMismatchException;
 import java.util.Scanner;
+
 public class FutureValueApplication {
 
 	public static void main(String[] args) {
